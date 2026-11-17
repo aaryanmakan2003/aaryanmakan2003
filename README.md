@@ -17,6 +17,7 @@ I build web interfaces with **JavaScript, TypeScript, React and Next.js**, and A
 <a href="projects/aquahaven.md"><img src="assets/aquahaven.svg" alt="AquaHaven: aquarium simulation and save reliability" width="360"></a>
 <a href="projects/glms-logistics-platform.md"><img src="assets/glms.svg" alt="GLMS: layered logistics workflows and private documents" width="360"></a>
 <a href="projects/project-12-after-dark.md"><img src="assets/after-dark.svg" alt="Project 12: After Dark, a personal development project with fixed-step drag racing" width="360"></a>
+<a href="projects/scriptsync-career-workspace.md"><img src="assets/job-agent.svg" alt="Scout — AI Job Search Agent: CV evidence, job matching and approval-controlled demo applications" width="360"></a>
 </p>
 
 **[Smart-X](projects/smart-x-iot-console.md)** — telemetry algorithms and resilient mesh routing.
@@ -31,21 +32,19 @@ I build web interfaces with **JavaScript, TypeScript, React and Next.js**, and A
 
 **[Project 12: After Dark](projects/project-12-after-dark.md)** — a personal development project exploring fixed-step drag racing.
 
+
+**[Scout — AI Job Search Agent](projects/scriptsync-career-workspace.md)** — CV-aware matching, persistent application workflows and approval-controlled Demo ATS submission.
+
 These cards open project overviews. Complete implementations remain private.
 
 ### University and hackathon experience
 
 My university work connects algorithm design with the practical demands of APIs, databases and full-stack integration. I am especially interested in how a system behaves when requests overlap, storage fails or users need to recover their work. [Explore my academic engineering work](projects/university-engineering.md).
 
-I have achieved runner-up placements in two hackathons. Those experiences sit alongside coursework and personal development in my learning journey.
-
-### Supporting projects
-
-[ScriptSync Career Workspace](projects/scriptsync-career-workspace.md) explores persistent application workflows, candidate evidence and human approval using synthetic data. It is a separate career application.
 
 ### Collaborative projects
 
-I contributed to two team projects. **[Campus Crisis Agent](projects/campus-crisis-agent.md)** groups fictional incident reports and replays decisions. **[HustleHub+](projects/hustlehub-plus.md)** is a service marketplace prototype with role-based flows and booking checks. Individual contribution details are still under review.
+I contributed to these team projects. **[Campus Crisis Agent](projects/campus-crisis-agent.md)** groups fictional incident reports and replays decisions. **[HustleHub+](projects/hustlehub-plus.md)** is a service marketplace prototype with role-based flows and booking checks. Individual contribution details are still under review.
 
 ### A look inside AquaHaven
 

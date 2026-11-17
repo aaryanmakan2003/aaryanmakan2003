@@ -14,7 +14,7 @@ In **INSY7314**, [Photostore](photostore-api.md) explores authenticated photo op
 
 ## Layered application development
 
-[GLMS](glms-logistics-platform.md), associated with the prepared PROG7311 project, separates ASP.NET MVC, API services and persistence. Its development scope includes logistics workflows and controlled PDF access. Tests cover service behaviour and document access using isolated fixtures; a complete SQL-backed deployment has not been demonstrated.
+[GLMS](glms-logistics-platform.md), a university logistics project, separates ASP.NET MVC, API services and persistence. Its development scope includes logistics workflows and controlled PDF access. Tests cover service behaviour and document access using isolated fixtures; a complete SQL-backed deployment has not been demonstrated.
 
 ## Testing and integration
 
@@ -24,9 +24,11 @@ Cloud integration appears in Photostore's Cloudinary adapter. Its demonstrated t
 
 ## Hackathon experience
 
-I have two hackathon runner-up achievements. Event titles, dates and the association of each result with a particular project are awaiting a precise public citation. [Campus Crisis Agent](campus-crisis-agent.md) is a team incident-replay prototype; [ScriptSync Career Workspace](scriptsync-career-workspace.md) is a separate career-workflow application. No placement is assigned to either project here.
+[Campus Crisis Agent](campus-crisis-agent.md) is a team incident-replay prototype; [Scout — AI Job Search Agent](scriptsync-career-workspace.md) is a separate career-workflow application.
 
 ## Contribution and availability
+
+ScriptSync is my university development team. [Scout](scriptsync-career-workspace.md) is the team's CV-aware job-search application. Each coursework project and hackathon submission retains its own identity and contribution scope.
 
 Smart-X, Photostore and GLMS are university projects I worked on. HustleHub+ and Campus Crisis Agent are collaborative projects. Individual involvement does not establish ownership of every component or starter asset. This overview presents the engineering work while implementation redistribution remains subject to university, starter-material and contributor permissions.
 

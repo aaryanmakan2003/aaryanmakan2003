@@ -25,3 +25,5 @@ ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 The University Engineering card is an original AI-assisted geometric illustration created for this portfolio update. It uses no institutional logo or imported artwork.
+
+The Scout — AI Job Search Agent card uses original AI-assisted geometric illustrations. They contain no client branding, screenshots, institutional logos or imported third-party artwork.

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+<title id="title">Scout — AI Job Search Agent</title><desc id="desc">CV evidence, matching and human approval. Original conceptual illustration.</desc>
+<rect x="1" y="1" width="598" height="178" rx="16" fill="#101d32" stroke="#526781"/>
+<rect x="26" y="30" width="4" height="119" rx="2" fill="#55d6bd"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="48" y="48" fill="#83a7ff" font-size="13" letter-spacing="2">AI JOB SEARCH AGENT</text><text x="46" y="99" fill="#f3f6fb" font-size="30" font-weight="700">Scout</text><text x="48" y="138" fill="#c8d5e6" font-size="17">CV evidence, matching and human approval.</text></g>
+<g transform="translate(452 36)" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="62" height="85" rx="7" stroke="#83a7ff"/><circle cx="23" cy="25" r="7" stroke="#55d6bd"/><path d="M14 44h38M14 56h29M14 68h24" stroke="#83a7ff"/><circle cx="79" cy="55" r="23" fill="#1c334e" stroke="#55d6bd"/><path d="m95 72 20 22m-49-40 9 9 17-20M19 101v12h52" stroke="#55d6bd"/><rect x="79" y="100" width="28" height="21" rx="5" stroke="#f29d7d"/><path d="m86 110 5 5 9-11" stroke="#f29d7d"/></g></svg>

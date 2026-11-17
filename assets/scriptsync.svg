@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
-  <title id="title">ScriptSync</title>
+  <title id="title">Scout — AI Job Search Agent</title>
   <desc id="desc">Persistent checkpoints and human approval. The illustration shows a workflow with an approval checkpoint.</desc>
   <rect x="1" y="1" width="598" height="178" rx="16" fill="#101d32" stroke="#526781"/>
   <rect x="26" y="30" width="4" height="119" rx="2" fill="#83a7ff"/>
   <text x="48" y="48" fill="#83a7ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">FULL-STACK WORKFLOWS</text>
-  <text x="46" y="99" fill="#f3f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">ScriptSync</text>
+  <text x="46" y="99" fill="#f3f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Scout</text>
   <text x="48" y="138" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="17">Persistent checkpoints and human approval.</text>
   <g transform="translate(453 40)" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
     <path d="M15 24h55a15 15 0 0 1 0 30H44a15 15 0 0 0 0 30h49" stroke="#83a7ff"/>
