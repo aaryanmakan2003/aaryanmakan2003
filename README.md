@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Aaryan Makan — software developer working across full-stack, backend, mobile and interactive development" width="100%"></p>
 
-[Experience and skills](#experience-and-skills) · [Featured projects](#featured-projects) · [AquaHaven preview](#a-look-inside-aquahaven) · [Connect](#connect)
+[Experience and skills](#experience-and-skills) · [Featured projects](#featured-projects) · [University experience](#university-and-hackathon-experience) · [AquaHaven preview](#a-look-inside-aquahaven) · [Connect](#connect)
 
 ### Experience and skills
 
@@ -12,23 +12,36 @@ I build web interfaces with **JavaScript, TypeScript, React and Next.js**, and A
 
 <p align="center">
 <a href="projects/smart-x-iot-console.md"><img src="assets/smart-x.svg" alt="Smart-X: telemetry, AVL history and mesh routing" width="360"></a>
-<a href="projects/scriptsync-career-workspace.md"><img src="assets/scriptsync.svg" alt="ScriptSync: persistent checkpoints and human approval" width="360"></a>
+<a href="projects/university-engineering.md"><img src="assets/university.svg" alt="University Engineering: algorithms, APIs and integration" width="360"></a>
 <a href="projects/photostore-api.md"><img src="assets/photostore.svg" alt="Photostore: authenticated uploads and ownership rules" width="360"></a>
 <a href="projects/aquahaven.md"><img src="assets/aquahaven.svg" alt="AquaHaven: aquarium simulation and save reliability" width="360"></a>
 <a href="projects/glms-logistics-platform.md"><img src="assets/glms.svg" alt="GLMS: layered logistics workflows and private documents" width="360"></a>
 <a href="projects/project-12-after-dark.md"><img src="assets/after-dark.svg" alt="Project 12: After Dark, a personal development project with fixed-step drag racing" width="360"></a>
 </p>
 
-| Project | Engineering focus | Context |
-| --- | --- | --- |
-| **[Smart-X](projects/smart-x-iot-console.md)** | Priority ingestion, graph routing and indexed history | University project with simulated IoT devices |
-| **[ScriptSync Career Workspace](projects/scriptsync-career-workspace.md)** | Candidate evidence, application-specific answers and explicit approval | Prototype demonstrated with synthetic data |
-| **[Photostore](projects/photostore-api.md)** | Authentication, image validation and storage failure handling | University API project |
-| **[AquaHaven](projects/aquahaven.md)** | Stateful simulation, persistence and recovery | Personal development preview |
-| **[GLMS](projects/glms-logistics-platform.md)** | MVC/API separation, service rules and private PDF downloads | University project with hosting controls in development |
-| **[Project 12: After Dark](projects/project-12-after-dark.md)** | Fixed-step drag racing, vehicle controls and local race records | Personal development project |
+**[Smart-X](projects/smart-x-iot-console.md)** — telemetry algorithms and resilient mesh routing.
+
+**[University Engineering](projects/university-engineering.md)** — connecting algorithms, data, APIs and collaborative development across coursework.
+
+**[Photostore](projects/photostore-api.md)** — authenticated photo workflows with validation and storage recovery.
+
+**[AquaHaven](projects/aquahaven.md)** — a procedural aquarium exploring simulation and dependable local saves.
+
+**[GLMS](projects/glms-logistics-platform.md)** — layered logistics workflows and controlled document access.
+
+**[Project 12: After Dark](projects/project-12-after-dark.md)** — a personal development project exploring fixed-step drag racing.
 
 These cards open project overviews. Complete implementations remain private.
+
+### University and hackathon experience
+
+My university work connects algorithm design with the practical demands of APIs, databases and full-stack integration. I am especially interested in how a system behaves when requests overlap, storage fails or users need to recover their work. [Explore my academic engineering work](projects/university-engineering.md).
+
+I have achieved runner-up placements in two hackathons. Those experiences sit alongside coursework and personal development in my learning journey.
+
+### Supporting projects
+
+[ScriptSync Career Workspace](projects/scriptsync-career-workspace.md) explores persistent application workflows, candidate evidence and human approval using synthetic data. It is a separate career application.
 
 ### Collaborative projects
 

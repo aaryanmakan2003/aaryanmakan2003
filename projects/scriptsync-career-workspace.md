@@ -4,6 +4,14 @@
 
 A local career-workflow prototype, presented in the application as Scout. It keeps candidate evidence, application-specific answers and human approval separate.
 
+## Problem and approach
+
+Application workflows need to preserve candidate evidence and pause for decisions instead of silently assuming answers.
+
+## Technologies
+
+TypeScript · Next.js · React · Node.js · SQLite · Zod · Vitest
+
 ## Context and contribution
 
 Career-workflow prototype demonstrated only with synthetic records and a local Demo ATS. It is separate from the Campus Crisis Agent team project.
@@ -13,6 +21,10 @@ Career-workflow prototype demonstrated only with synthetic records and a local D
 - Persistent workflow checkpoints and pause/resume when information is missing.
 - Candidate facts carry provenance and reuse consent; application answers do not silently become general facts.
 - Synthetic Demo ATS submission requires explicit approval.
+
+## Demonstrated functionality
+
+Earlier preparation passed 136 tests; four live-provider checks were skipped. The browser demonstration used a synthetic Demo ATS. These results describe the prepared local version and were not rerun for this documentation update.
 
 ## Development status
 

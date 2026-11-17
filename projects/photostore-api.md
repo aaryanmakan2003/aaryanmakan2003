@@ -4,6 +4,14 @@
 
 An image-storage API with authenticated uploads, validation and ownership checks.
 
+## Problem and approach
+
+Photo uploads need clear ownership rules and predictable behaviour when image storage fails.
+
+## Technologies
+
+Node.js · Express · MongoDB / Mongoose · JWT · Multer · Cloudinary
+
 ## Context and contribution
 
 University API project. Descriptions cover the prepared prototype, without implying that coursework or starter material is exclusively owned.
@@ -13,6 +21,10 @@ University API project. Descriptions cover the prepared prototype, without imply
 - Authenticated image operations with ownership checks.
 - File validation and storage failure handling.
 - Automated tests using mock storage rather than a live image account.
+
+## Demonstrated functionality
+
+Three automated checks and a synthetic HTTP demo passed with substitute database and image-storage behaviour. These results describe the prepared local version and were not rerun for this documentation update.
 
 ## Development status
 

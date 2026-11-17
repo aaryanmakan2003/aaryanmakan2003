@@ -4,6 +4,14 @@
 
 A team-built services marketplace with separate React client and Express API, role-aware workflows and booking consistency checks.
 
+## Problem and approach
+
+A marketplace needs role-aware workflows and consistent booking records across client and API boundaries.
+
+## Technologies
+
+JavaScript · React · Express · MongoDB / Mongoose · JWT · Node tests · Vitest
+
 ## Context and contribution
 
 Team marketplace prototype. I contributed to development; component-level attribution is still under review. It is not presented as a live production marketplace.
@@ -13,6 +21,10 @@ Team marketplace prototype. I contributed to development; component-level attrib
 - Client and freelancer roles, gig discovery and booking workflows.
 - Booking and transaction persistence coordinated through a MongoDB transaction.
 - Password byte-limit validation, rate limiting, token revocation and role checks.
+
+## Demonstrated functionality
+
+Earlier preparation passed seven API and 19 client tests. Persistence was mocked; a real MongoDB transaction workflow remains unverified. These results describe the prepared local version and were not rerun for this documentation update.
 
 ## Development status
 

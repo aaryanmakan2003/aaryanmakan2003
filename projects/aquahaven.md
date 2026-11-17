@@ -4,6 +4,14 @@
 
 A peaceful browser aquarium with original procedural artwork, gentle simulated care and recoverable local progress.
 
+## Problem and approach
+
+A relaxing aquarium should retain progress reliably, including when browser storage is unavailable or a save is invalid.
+
+## Technologies
+
+TypeScript · React · PixiJS · Dexie / IndexedDB · Zod · Web Audio
+
 ## Context and contribution
 
 Personal development project. Version 1.4.0-alpha.1 is a development preview, not a claim of final creator acceptance.
@@ -13,6 +21,10 @@ Personal development project. Version 1.4.0-alpha.1 is a development preview, no
 - Four freshwater species with deterministic movement and original procedural textures.
 - Collection purchases, care modes, food supplies and a simplified living ecosystem.
 - Versioned saves, serialized writes, backup-preserving imports and explicit temporary sessions.
+
+## Demonstrated functionality
+
+Earlier preparation passed 89 tests and nine selected browser checks covering persistence and collection workflows. These results describe the prepared local version and were not rerun for this documentation update.
 
 ## Development status
 

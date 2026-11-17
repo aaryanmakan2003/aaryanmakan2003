@@ -5,7 +5,7 @@
 <circle cx="1170" cy="60" r="180" fill="#152b43"/>
 <path d="M65 62h44" stroke="#55d6bd" stroke-width="6"/>
 <text x="60" y="185" fill="#f3f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700">Aaryan Makan</text>
-<text x="65" y="235" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="28">Software Developer</text>
+<text x="65" y="235" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="28">Junior Software Developer</text>
 <text x="65" y="306" fill="#55d6bd" font-family="Segoe UI,Arial,sans-serif" font-size="19">FULL STACK</text>
 <circle cx="214" cy="300" r="3" fill="#f29d7d"/>
 <text x="235" y="306" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="19">BACKEND</text>
@@ -19,4 +19,5 @@
 <rect x="1033" y="238" width="128" height="89" rx="12" fill="#24463f" stroke="#55d6bd" stroke-width="2"/>
 <ellipse cx="1097" cy="257" rx="43" ry="12" fill="#24463f" stroke="#55d6bd" stroke-width="2"/>
 <path d="M1054 257v45c0 16 86 16 86 0v-45M1054 279c0 16 86 16 86 0" fill="none" stroke="#55d6bd" stroke-width="2"/>
+<circle cx="988" cy="306" r="5" fill="#f29d7d"/><path d="m1080 349 9 9 19-21" fill="none" stroke="#55d6bd" stroke-width="4" stroke-linecap="round"/>
 </svg>
