@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+  <title id="title">GLMS</title>
+  <desc id="desc">Layered logistics workflows and private PDFs. The illustration shows connected service layers beside a protected document.</desc>
+  <rect x="1" y="1" width="598" height="178" rx="16" fill="#101d32" stroke="#526781"/>
+  <rect x="26" y="30" width="4" height="119" rx="2" fill="#a7a3ff"/>
+  <text x="48" y="48" fill="#a7a3ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">WEB + DATA</text>
+  <text x="46" y="99" fill="#f3f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">GLMS</text>
+  <text x="48" y="138" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="17">Layered logistics workflows and private PDFs.</text>
+  <g transform="translate(455 40)" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m5 28 35-16 35 16-35 16L5 28Z" fill="#1c334e" stroke="#83a7ff"/>
+    <path d="m5 44 35 16 35-16M5 60l35 16 17-8m-17 9v15h23" stroke="#83a7ff"/>
+    <path d="M74 49h26l15 15v32H74V49Zm26 0v15h15" fill="#1c334e" stroke="#55d6bd"/>
+    <path d="M91 76v-4a5 5 0 0 1 10 0v4m-12 0h14v11H89Z" stroke="#55d6bd"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+  <title id="title">Smart-X</title>
+  <desc id="desc">Telemetry, AVL history and mesh routing. The illustration shows a six-node sensor mesh.</desc>
+  <rect x="1" y="1" width="598" height="178" rx="16" fill="#101d32" stroke="#526781"/>
+  <rect x="26" y="30" width="4" height="119" rx="2" fill="#55d6bd"/>
+  <text x="48" y="48" fill="#55d6bd" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">ALGORITHMS + BACKEND</text>
+  <text x="46" y="99" fill="#f3f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Smart-X</text>
+  <text x="48" y="138" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="17">Telemetry, AVL history and mesh routing.</text>
+  <g transform="translate(458 42)" fill="none" stroke-width="2.5" stroke-linejoin="round">
+    <path d="M13 55 44 18 90 26 105 64 57 92 13 55 57 53 44 18m13 35 33-27m-33 27 48 11m-48-11v39" stroke="#526781"/>
+    <path d="M13 55 57 53 90 26" stroke="#55d6bd"/>
+    <g fill="#101d32" stroke="#83a7ff">
+      <circle cx="44" cy="18" r="5"/><circle cx="105" cy="64" r="5"/><circle cx="57" cy="92" r="5"/>
+    </g>
+    <g fill="#101d32" stroke="#55d6bd">
+      <circle cx="13" cy="55" r="6"/><circle cx="57" cy="53" r="7"/><circle cx="90" cy="26" r="6"/>
+    </g>
+  </g>
+</svg>

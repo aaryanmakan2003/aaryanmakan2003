@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+  <title id="title">Project 12: After Dark</title>
+  <desc id="desc">Personal development project with fixed-step drag racing and local records. Original abstract artwork shows two lanes and a starting signal.</desc>
+  <rect x="1" y="1" width="598" height="178" rx="16" fill="#101d32" stroke="#526781"/>
+  <rect x="26" y="30" width="4" height="119" rx="2" fill="#f29d7d"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="48" y="48" fill="#f29d7d" font-size="13" letter-spacing="2">DEVELOPMENT PROJECT</text>
+    <text x="46" y="99" fill="#f3f6fb" font-size="34" font-weight="700">Project 12: After Dark</text>
+    <text x="48" y="138" fill="#c8d5e6" font-size="17">Fixed-step drag racing and local records.</text>
+  </g>
+  <g fill="none" stroke="#83a7ff" stroke-width="2" stroke-linecap="round">
+    <path d="M447 135 504 85h62M470 143l46-43h50M500 143l29-28h37"/>
+    <path d="M500 135l9-9m7-7 6-6m7-7 4-4" stroke="#55d6bd"/>
+    <path d="M550 87v26m6-26v26m-6-18h6m-6 12h6" stroke="#f29d7d"/>
+  </g>
+  <rect x="515" y="32" width="51" height="35" rx="8" fill="#1c334e" stroke="#526781"/>
+  <circle cx="528" cy="49.5" r="3.5" fill="#f29d7d"/>
+  <circle cx="541" cy="49.5" r="3.5" fill="#83a7ff"/>
+  <circle cx="553" cy="49.5" r="3.5" fill="#55d6bd"/>
+</svg>

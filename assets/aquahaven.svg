@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+  <title id="title">AquaHaven</title>
+  <desc id="desc">Aquarium simulation and save reliability. The illustration shows a fish, bubbles and an aquatic plant.</desc>
+  <rect x="1" y="1" width="598" height="178" rx="16" fill="#101d32" stroke="#526781"/>
+  <rect x="26" y="30" width="4" height="119" rx="2" fill="#55d6bd"/>
+  <text x="48" y="48" fill="#55d6bd" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">INTERACTIVE SYSTEMS</text>
+  <text x="46" y="99" fill="#f3f6fb" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">AquaHaven</text>
+  <text x="48" y="138" fill="#c8d5e6" font-family="Segoe UI,Arial,sans-serif" font-size="17">Aquarium simulation and save reliability.</text>
+  <g transform="translate(457 39)" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 52q28-33 60 0-32 32-60 0Zm60 0 20-14v28L79 52" fill="#1c334e" stroke="#55d6bd"/>
+    <circle cx="32" cy="47" r="2" fill="#f29d7d" stroke="none"/>
+    <path d="M13 99h105M83 98q-9-12-7-22m22 22q11-12 12-26m-11 26q1-21-7-30" stroke="#55d6bd"/>
+    <circle cx="31" cy="24" r="4" stroke="#83a7ff"/><circle cx="46" cy="14" r="6" stroke="#83a7ff"/>
+  </g>
+</svg>
